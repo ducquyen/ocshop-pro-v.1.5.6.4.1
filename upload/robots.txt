@@ -6,7 +6,7 @@ Disallow: /download
 Disallow: /system
 Disallow: /*?order=
 Disallow: /*&order=
-Disallow: /*?filter_name=
+Disallow: /*?filter_name=			ocshop
 Disallow: /*&filter_name=
 Disallow: /*?filter_sub_category=
 Disallow: /*&filter_sub_category=
