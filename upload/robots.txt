@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /*route=checkout/
 Disallow: /index.php?route=product/product*&manufacturer_id=
-Disallow: /catalog
+Disallow: /catalog			opencart
 Disallow: /download
 Disallow: /system
 Disallow: /*?order=
